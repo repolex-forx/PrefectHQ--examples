@@ -1,0 +1,11 @@
+{
+  "org": "PrefectHQ",
+  "repo": "examples",
+  "versions": [
+    {
+      "commit": "de372af06fc77542db1a2a69c66ceeaa001cc685",
+      "tag": "",
+      "parsed_at": "2026-11-08T02:52:47.631042+00:00"
+    }
+  ]
+}
